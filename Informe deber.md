@@ -1,0 +1,15 @@
+# DEBER CAPITULO 1-2
+
+![encabezado](https://user-images.githubusercontent.com/75336529/119386688-7f795200-bc8d-11eb-96e4-19d369d809ec.PNG)
+
+**1.-OBJETIVOS**
+
+**2.-MARCO TEÓRICO**
+
+**3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+
+**4.-VIDEO**
+
+**5.-CONCLUSIONES**
+
+**6.- BIBLIOGRAFÍA**
